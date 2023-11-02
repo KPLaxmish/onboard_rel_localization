@@ -1,0 +1,21 @@
+NEMO_QUANTUM: 0.0544
+TL_trained_model_path: /Users/kpl/KPL_Mac/MSC/MSc_Thesis_Keerthana/rel_state_est/models/testnet160x160_TL.pt
+experiments_folder: /Users/kpl/KPL_Mac/Learning/data/Thesis_exp/test/
+img_size:
+- 160
+- 160
+input_channel: 1
+learning_rate: 0.001
+model_name: testnet_160x160
+no_of_experiments: 1
+num_epochs: 1
+repo_folder_path: /Users/kpl/KPL_Mac/MSC/MSc_Thesis_Keerthana/rel_state_est/
+seed: 2322
+stride: 8
+test_batch_size: 1
+test_imgs_folder_path: /Users/kpl/KPL_Mac/Learning/data/cvmrs_dataset/sorted_real_test/
+train_batch_size: 8
+train_imgs_folder_path: /Users/kpl/KPL_Mac/Learning/data/cvmrs_dataset/sorted/1/
+trained_model_path: /Users/kpl/KPL_Mac/MSC/MSc_Thesis_Keerthana/rel_state_est/models/testnet160x160.pt
+transfer_test_imgs_folder_path: /Users/kpl/KPL_Mac/Learning/data/cvmrs_dataset/sorted_real_test/
+transfer_train_imgs_folder_path: /Users/kpl/KPL_Mac/Learning/data/cvmrs_dataset/sorted_real_train/
